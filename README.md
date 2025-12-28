@@ -284,7 +284,7 @@ npm start
 
 ## 🌐 **Live Demo**
 
-- **Backend (Render Hosted)**: [https://scholarstack-student-management-system.onrender.com](https://scholarstack-student-management-system.onrender.com)
+- **Backend (Render Hosted)**: [https://scholarstack-student-management-system-1.onrender.com](https://scholarstack-student-management-system-1.onrender.com)
   _(This is the live API endpoint — Routes can be directly tested in Postman using this base URL)_
 
 ---
@@ -297,8 +297,8 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 ## **Author**
 
-**Simranpreet Kaur**
+**Piyush Kumar Shrivastav**
 
 - _ScholarStack-Student Management System — Major Project_
-- simranpreet4248@gmail.com
-- [GitHub](https://github.com/Simran-210803)
+- piyushshrivastav2014@gmail.com
+- [GitHub](https://github.com/1piyush8)
